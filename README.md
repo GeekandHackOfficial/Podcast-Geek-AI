@@ -11,7 +11,7 @@ Benvenuti al Creatore di Podcast di geekandhack.com! Questo strumento ti aiuta a
 ## Installazione
 
 1. **Scarica l'Eseguibile Autoestraente**:
-    - Scarica il file `PodcastAiSetup.exe` dal link fornito.
+    - Scarica il file `PodcastAiSetup.exe` dal questo link e clicca Download [geekandhack](https://www.geekandhack.com/distai/PodcastAI.html).
 
 2. **Richiedi la Password per l'Utilizzo in Beta Test**:
     - Il programma è attualmente in beta test. Per ottenere la password di accesso necessaria durante l'installazione, segui questi passaggi:
