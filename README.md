@@ -50,15 +50,9 @@ Benvenuti al Creatore di Podcast di geekandhack.com! Questo strumento ti aiuta a
 
 ## Risoluzione dei Problemi
 
-### Errore: `bitmap "icon.ico" not defined`
-Assicurati che il file `icon.ico` sia presente nella directory di installazione del programma.
 
 ### Avviso: `Couldn't find ffmpeg or avconv - defaulting to ffmpeg, but may not work`
 Il programma scarica automaticamente `ffmpeg` se non è presente. Assicurati di avere una connessione Internet attiva la prima volta che esegui il programma.
 
 ### Problemi Generali
 Se incontri problemi durante l'uso del programma, verifica che tutte le dipendenze siano correttamente installate e che le chiavi API siano valide e correttamente inserite.
-
-## Struttura della Cartella
-
-Dopo l'estrazione, la struttura della cartella dovrebbe essere simile a questa:
