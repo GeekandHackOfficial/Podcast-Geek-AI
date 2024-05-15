@@ -1,4 +1,4 @@
-# Il Creatore di Podcast - geekandhack.com
+# Il Creatore di Podcast AI - geekandhack.com
 
 Benvenuti al Creatore di Podcast di geekandhack.com! Questo strumento ti aiuta a creare podcast usando OpenAI e Eleven Labs. Il programma include una GUI user-friendly che consente di configurare i parametri del modello GPT, inserire le chiavi API, impostare il prompt di sistema e il topic, e generare podcast con output audio.
 
